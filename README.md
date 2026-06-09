@@ -1,9 +1,8 @@
 <!-- Profile README - Heiaeya -->
 <div align="center">
 
-```js
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A371F7&center=true&width=435&lines=console.log('just+here+for+fun+🙃');%2F%2F+TODO%3A+do+something+productive;while(alive)+%7B+vibe()+%7D;git+commit+-m+'isen+aja'" alt="Typing SVG" />
-```
 
 ### connect with me
 
