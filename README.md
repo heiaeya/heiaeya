@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Profile README - Heiaeya -->
+<div align="center">
 
-<!--
-**heiaeya/heiaeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+console.log('just here for fun 🙃')
+```
 
-Here are some ideas to get you started:
+### connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/aeya.py?igsh=NzVjZDdyMDZ1dGht">
+  <img src="https://img.shields.io/badge/Instagram-@aeya.py-833ab4?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:aryaa.setyawann@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-aryaa.setyawann@gmail.com-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/heiaeya">
+  <img src="https://img.shields.io/badge/Discord-heiaeya-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+---
+
+<img src="https://raw.githubusercontent.com/Heiaeya/Heiaeya/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
