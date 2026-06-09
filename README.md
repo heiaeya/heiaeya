@@ -11,10 +11,6 @@ console.log('just here for fun 🙃')
   <img src="https://img.shields.io/badge/Instagram-@aeya.py-833ab4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:aryaa.setyawann@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-aryaa.setyawann@gmail.com-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://discord.com/users/heiaeya">
   <img src="https://img.shields.io/badge/Discord-heiaeya-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
